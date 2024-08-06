@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Cinco {
+public class IMC {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
