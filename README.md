@@ -1,4 +1,4 @@
-**#Lógica de Programação - Professor: Igor Mascarenhas#**
+## **Lógica de Programação - Professor: Igor Mascarenhas** ##
 
 **Conteúdos:** Input e Output de dados, tipos primitivos e operadores.
 
