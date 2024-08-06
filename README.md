@@ -1,13 +1,13 @@
-## **Lógica de Programação - Professor: Igor Mascarenhas** ##
+**#Lógica de Programação - Professor: Igor Mascarenhas#**
 
 **Conteúdos:** Input e Output de dados, tipos primitivos e operadores.
 
- -  Escreva um programa que captura nome, idade e profissão do usuário e mostra na tela os valores. (Utilize a classe **Scanner** e os 3 métodos **print, printf e println**).
+ 1. Escreva um programa que captura nome, idade e profissão do usuário e mostra na tela os valores. (Utilize a classe **Scanner** e os 3 métodos **print, printf e println**).
 
 
- -  Escreva um programa que captura nome, salário, idade, altura e sexo. Mostre na tela utilizando o **printf**.
+2. Escreva um programa que captura nome, salário, idade, altura e sexo. Mostre na tela utilizando o **printf**.
 
- -  Suponha que precisamos trabalhar em um projeto da NASA que pretende lançar um novo satélite. A economia de memória é muito importante nessa missão, pois vamos ter uma quantidade de memória limitada. Vamos trabalhar em 3 módulos e não podemos ultrapassar o limite de memória de cada módulo. Ao iniciar o programa o operador deve digitar os dados da missão para que armazene todos os dados em cada um dos módulos e no final deve ser printado todos os valores por ele escolhidos.
+3.  Suponha que precisamos trabalhar em um projeto da NASA que pretende lançar um novo satélite. A economia de memória é muito importante nessa missão, pois vamos ter uma quantidade de memória limitada. Vamos trabalhar em 3 módulos e não podemos ultrapassar o limite de memória de cada módulo. Ao iniciar o programa o operador deve digitar os dados da missão para que armazene todos os dados em cada um dos módulos e no final deve ser printado todos os valores por ele escolhidos.
 
 		 Móludo 01 - Controle de tempo x funcionários:
     
@@ -27,6 +27,6 @@
  - Memória disponível: **17  bytes**
  - Requisitos: Armazenar o **estado da missão** (se já iniciou ou não), **distância que será percorrida durante a missão** em km (max 3 bilhões de km) e **calibragem das antenas** (número racional com precisão de no mínimo 14 casa decimais).
 
-	Faça um programa que calcula a área das seguites figuras geometricas - **Retângulo, Triângulo, Círculo e Trapézio**.
+4. Faça um programa que calcula a área das seguites figuras geometricas - **Retângulo, Triângulo, Círculo e Trapézio**.
     
-			Faça um programa que calcula o IMC
+5. Faça um programa que calcula o IMC
